@@ -1,6 +1,6 @@
 # Lista15-Java
 
-# Padrão de Projeto – Builder (Criação)
+# Padrão de Projeto - Builder (Criação)
 
 ## 1. Análise e Referência
 
